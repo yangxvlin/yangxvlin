@@ -30,7 +30,7 @@ A lot of the repositories you'll find here are my university projects. Hope they
 - 💬 Ask me about ```anything you would like to ask```
 - 📫 How to reach me: https://yangxvlin.github.io/
 - 😄 Pronouns: He/His
-- :page_facing_up: Resume: [:page_with_curl:](https://github.com/yangxvlin/yangxvlin.github.io/blob/master/files/XuLin%20Yang%20Resume.pdf)
+<!-- - :page_facing_up: Resume: [:page_with_curl:](https://github.com/yangxvlin/yangxvlin.github.io/blob/master/files/XuLin%20Yang%20Resume.pdf) -->
 
 ### My status :blush:
 <a href="https://github.com/yangxvlin">
