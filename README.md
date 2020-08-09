@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="https://github.com/yangxvlin"><img src="https://img.shields.io/github/followers/terrytangyuan.svg?label=GitHub&style=social" alt="GitHub"></a>
-	<a href="https://www.https://www.linkedin.com/in/xulin-yang-a8566a13a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+	<a href="https://github.com/yangxvlin"><img src="https://img.shields.io/github/followers/yangxvlin.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/xulin-yang-a8566a13a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
     <a> <img src="https://komarev.com/ghpvc/?username=yangxvlin&label=Views&color=red&style=plastic" alt="yangxvlin" /> </a>
     
 </p>
