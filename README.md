@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="https://github.com/yangxvlin"><img src="https://img.shields.io/github/followers/yangxvlin.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<a href="https://github.com/yangxvlin?tab=repositories"><img src="https://img.shields.io/github/followers/yangxvlin.svg?label=GitHub&style=social" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/xulin-yang-a8566a13a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
     <a href="https://yangxvlin.github.io/"> <img src="https://komarev.com/ghpvc/?username=yangxvlin" alt="yangxvlin"/> </a> 
     
@@ -33,10 +33,10 @@ A lot of the repositories you'll find here are my university projects. Hope they
 <!-- - :page_facing_up: Resume: [:page_with_curl:](https://github.com/yangxvlin/yangxvlin.github.io/blob/master/files/XuLin%20Yang%20Resume.pdf) -->
 
 ### My status :blush:
-<a href="https://github.com/yangxvlin">
+<a href="https://github.com/yangxvlin?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangxvlin&hide_langs_below=1" />
 </a>
 <!-- Profile highlights -->
-<a href="https://github.com/yangxvlin">
+<a href="https://github.com/yangxvlin?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yangxvlin&show_icons=true&line_height=40" alt="Deepak's github stats"/>
 </a>
