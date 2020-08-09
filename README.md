@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm [Xulin Yang (杨煦林)](https://yangxvlin.github.io/). I'm a Master's student at the University of Melbourne.
+I'm [Xulin Yang (杨煦林)](https://yangxvlin.github.io/). I'm a Master's student at the University of Melbourne :school:.
 
 A lot of the repositories you'll find here are my university projects. Hope they can make helps with your studies. Others are the repositories for my persoanal studying in computing 
 
-- 🔭 I’m currently working on ```completing a master degree``` :school:
+- 🔭 I’m currently working on ```completing a master degree```
 - 🌱 I’m currently learning ```Master of Computer Science in the University of Melbourne```
 - 💬 Ask me about ```anything you would like to ask```
 - 📫 How to reach me: https://yangxvlin.github.io/
