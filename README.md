@@ -40,3 +40,6 @@ A lot of the repositories you'll find here are my university projects. Hope they
 <a href="https://github.com/yangxvlin?tab=repositories">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yangxvlin&show_icons=true&line_height=40" alt="Deepak's github stats"/>
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
