@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm [Xulin Yang (杨煦林)](https://yangxvlin.github.io/). I'm a Master graduates from the University of Melbourne :school:. Now working as a backend Java developer at [EA Shanghai](https://www.ea.com/en-gb/news/tour-the-ea-china-studio).
 
-A lot of the repositories you'll find here are my university projects. Hope they can make helps with your studies. Others are the repositories for my persoanal studying in computing. 
+A lot of the repositories you'll find here are my university projects. Hope they can make helps with your studies. Others are the repositories for my personal studying in computing. 
 
 - 🔭 I’m currently working on ```my job```
 - 🌱 I’m currently learning ```Java web programming```
