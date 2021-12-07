@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm [Xulin Yang (杨煦林)](https://yangxvlin.github.io/). I'm a Master's student at the University of Melbourne :school:.
+I'm [Xulin Yang (杨煦林)](https://yangxvlin.github.io/). I'm a Master graduates from the University of Melbourne :school:. Now working as a backend Java developer at [EA Shanghai](https://www.ea.com/en-gb/news/tour-the-ea-china-studio).
 
 A lot of the repositories you'll find here are my university projects. Hope they can make helps with your studies. Others are the repositories for my persoanal studying in computing. 
 
-- 🔭 I’m currently working on ```completing a master degree```
-- 🌱 I’m currently learning ```Master of Computer Science in the University of Melbourne```
+- 🔭 I’m currently working on ```my job```
+- 🌱 I’m currently learning ```Java web programming```
 - 💬 Ask me about ```anything you would like to ask```
 - 📫 How to reach me: https://yangxvlin.github.io/
 - 😄 Pronouns: He/His
